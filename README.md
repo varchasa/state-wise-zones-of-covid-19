@@ -1,2 +1,3 @@
 # state-wise-zones-of-covid-19
-state wise distribution of zones of COVID-19.
+
+Just made a state wise graph distribution of all zones(red,orange and green) of COVID-19.
