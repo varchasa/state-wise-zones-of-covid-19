@@ -1,0 +1,34 @@
+﻿states,confirmed,recovered,deaths,green zone,orange zone,red zone
+maharashtra,12974,2115,548,6,16,14
+gujarat,5428,1042,290,5,19,9
+delhi,4549,1362,64,0,0,11
+madhya pradesh,2846,798,156,24,19,9
+rajasthan,2886,1356,71,6,19,8
+tamil nadu,3023,1379,30,1,24,12
+uttar pradesh,2645,754,43,20,36,19
+andhra pradesh,1583,488,33,1,7,5
+telangana,1082,490,29,9,18,6
+west bengal,963,151,25,8,5,10
+punjab,1102,117,21,4,15,3
+jammu and kashmir,701,287,8,4,12,4
+karnataka,614,293,25,14,13,3
+kerala,500,401,4,2,10,2
+bihar,503,125,4,13,20,5
+haryana,442,245,5,2,18,2
+odisha,162,56,1,21,6,3
+jharkhand,115,22,3,14,9,1
+chandigarh,94,19,,0,0,1
+uttarakhand,60,39,,10,2,1
+assam,43,32,1,30,3,0
+chattisgarh,57,36,,25,1,1
+himachal pradesh,40,34,1,6,6,0
+andman and nicobar islands,33,32,,2,0,1
+ladakh,41,17,0,0,2,0
+meghalaya,12,0,1,10,1,0
+puducherry,8,5,0,3,1,0
+goa,7,7,,2,0,0
+manipur,2,2,,16,0,0
+tripura,16,2,,6,2,0
+arunachal pradesh,1,1,,25,0,0
+mizoram,1,0,,11,0,0
+nagaland,0,0,,11,0,0
